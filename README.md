@@ -15,11 +15,11 @@
 
 ## 固件下载地址
 
-| | | |
+|1 |2 | 3|
 |----|-----|----|
 | [Dlink](https://tsd.dlink.com.tw/) | [DVRF](https://github.com/praetorian-inc/DVRF) | [TPlink](https://www.tp-link.com/us/support/download) |
 | [totolink](http://www.totolink.cn/index.php/Download/list/121.html) | [水星](https://service.mercurycom.com.cn/download-list.html) | [腾达](https://www.tenda.com.cn/service/download-cata-11.html) |
-| [小米](http://www.miui.com/thread-1776173-1-1.html) | [360](https://bbs.360.cn/thread-14271499-1-1.html) | [H3C](http://www0.h3c.com.cn/cn/Service/Document_Software/Software_Download/Router/) |
+| [小米](http://www1.miwifi.com/miwifi_download.html) | [360](https://bbs.360.cn/thread-14271499-1-1.html) | [H3C](http://www0.h3c.com.cn/cn/Service/Document_Software/Software_Download/Router/) |
 | [华硕](https://www.asus.com.cn/Networking/RTAC68U/HelpDesk_BIOS/) | [华为荣耀系列](https://www.honor.cn/support/softwarelist/) | [华为少许下载地址](https://club.huawei.com/thread-1070197-1-1.html) |
 | [斐讯K2](https://www.jianshu.com/p/a6bb6dd79558) | [FAST](https://service.fastcom.com.cn/download-list.html#0) | [极路由](https://app.hiwifi.com/dstore.php?m=download&a=info) |
 | [磊科](http://www.netcoretec.com/download.html) | [维盟](http://www.wayos.com/download/luyougujian.html) | [艾泰](https://www.utt.com.cn/downloadcenter.php) |
